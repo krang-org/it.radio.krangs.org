@@ -60,19 +60,19 @@ Amplitude.init({
     },
     {
       "name": "Esposito S R L ",
-      "url": "./commercials/it-IT/difesa-e-spazio/esposito-s-r-l-/1673462320645/commercial.mp3",
+      "url": "./commercials/it-IT/difesa-e-spazio/esposito-s-r-l/1673462320645/commercial.mp3",
       "artist": "Difesa E Spazio",
       "cover_art_url": "assets/img/krang/krang-radio-084.jpg"
     },
     {
       "name": "Battaglia Conte S R L ",
-      "url": "./commercials/it-IT/musica/battaglia-conte-s-r-l-/1673461462535/commercial.mp3",
+      "url": "./commercials/it-IT/musica/battaglia-conte-s-r-l/1673461462535/commercial.mp3",
       "artist": "Musica",
       "cover_art_url": "assets/img/krang/krang-radio-066.jpg"
     },
     {
       "name": "Palmieri S R L ",
-      "url": "./commercials/it-IT/stampa/palmieri-s-r-l-/1673462284966/commercial.mp3",
+      "url": "./commercials/it-IT/stampa/palmieri-s-r-l/1673462284966/commercial.mp3",
       "artist": "Stampa",
       "cover_art_url": "assets/img/krang/krang-radio-002.jpg"
     },
@@ -156,7 +156,7 @@ Amplitude.init({
     },
     {
       "name": "Moretti Rizzi E Morelli S R L ",
-      "url": "./commercials/it-IT/cura-della-salute-mentale/moretti-rizzi-e-morelli-s-r-l-/1673463809124/commercial.mp3",
+      "url": "./commercials/it-IT/cura-della-salute-mentale/moretti-rizzi-e-morelli-s-r-l/1673463809124/commercial.mp3",
       "artist": "Cura Della Salute Mentale",
       "cover_art_url": "assets/img/krang/krang-radio-018.jpg"
     },
@@ -174,7 +174,7 @@ Amplitude.init({
     },
     {
       "name": "Orlando Barone S R L ",
-      "url": "./commercials/it-IT/musei-e-istituzioni/orlando-barone-s-r-l-/1673461253975/commercial.mp3",
+      "url": "./commercials/it-IT/musei-e-istituzioni/orlando-barone-s-r-l/1673461253975/commercial.mp3",
       "artist": "Musei E Istituzioni",
       "cover_art_url": "assets/img/krang/krang-radio-010.jpg"
     },
@@ -192,7 +192,7 @@ Amplitude.init({
     },
     {
       "name": "Rizzo S R L ",
-      "url": "./commercials/it-IT/aviazione-e-aerospaziale/rizzo-s-r-l-/1673462477392/commercial.mp3",
+      "url": "./commercials/it-IT/aviazione-e-aerospaziale/rizzo-s-r-l/1673462477392/commercial.mp3",
       "artist": "Aviazione E Aerospaziale",
       "cover_art_url": "assets/img/krang/krang-radio-067.jpg"
     },
@@ -210,7 +210,7 @@ Amplitude.init({
     },
     {
       "name": "Ferrari S R L ",
-      "url": "./commercials/it-IT/moda-e-abbigliamento/ferrari-s-r-l-/1673463788877/commercial.mp3",
+      "url": "./commercials/it-IT/moda-e-abbigliamento/ferrari-s-r-l/1673463788877/commercial.mp3",
       "artist": "Moda E Abbigliamento",
       "cover_art_url": "assets/img/krang/krang-radio-062.jpg"
     },
@@ -222,7 +222,7 @@ Amplitude.init({
     },
     {
       "name": "Marini S R L ",
-      "url": "./commercials/it-IT/investigazioni-e-sicurezza/marini-s-r-l-/1673461406306/commercial.mp3",
+      "url": "./commercials/it-IT/investigazioni-e-sicurezza/marini-s-r-l/1673461406306/commercial.mp3",
       "artist": "Investigazioni E Sicurezza",
       "cover_art_url": "assets/img/krang/krang-radio-084.jpg"
     },
@@ -306,13 +306,13 @@ Amplitude.init({
     },
     {
       "name": "Costa Palmieri S R L ",
-      "url": "./commercials/it-IT/pratica-legale/costa-palmieri-s-r-l-/1673461314690/commercial.mp3",
+      "url": "./commercials/it-IT/pratica-legale/costa-palmieri-s-r-l/1673461314690/commercial.mp3",
       "artist": "Pratica Legale",
       "cover_art_url": "assets/img/krang/krang-radio-054.jpg"
     },
     {
       "name": "Martinelli Galli E Greco S R L ",
-      "url": "./commercials/it-IT/spedizioni-e-consegne/martinelli-galli-e-greco-s-r-l-/1673461228947/commercial.mp3",
+      "url": "./commercials/it-IT/spedizioni-e-consegne/martinelli-galli-e-greco-s-r-l/1673461228947/commercial.mp3",
       "artist": "Spedizioni E Consegne",
       "cover_art_url": "assets/img/krang/krang-radio-004.jpg"
     },
@@ -324,7 +324,7 @@ Amplitude.init({
     },
     {
       "name": "De Rosa S R L ",
-      "url": "./commercials/it-IT/costruzione-ferroviaria/de-rosa-s-r-l-/1673461144153/commercial.mp3",
+      "url": "./commercials/it-IT/costruzione-ferroviaria/de-rosa-s-r-l/1673461144153/commercial.mp3",
       "artist": "Costruzione Ferroviaria",
       "cover_art_url": "assets/img/krang/krang-radio-046.jpg"
     },
@@ -342,7 +342,7 @@ Amplitude.init({
     },
     {
       "name": "Riva S R L ",
-      "url": "./commercials/it-IT/ricerca-di-mercato/riva-s-r-l-/1673463535369/commercial.mp3",
+      "url": "./commercials/it-IT/ricerca-di-mercato/riva-s-r-l/1673463535369/commercial.mp3",
       "artist": "Ricerca Di Mercato",
       "cover_art_url": "assets/img/krang/krang-radio-085.jpg"
     },
@@ -402,19 +402,19 @@ Amplitude.init({
     },
     {
       "name": "Bruno Valentini E Figli",
-      "url": "./commercials/it-IT/marketing-e-pubblicit-/bruno-valentini-e-figli/1673461576261/commercial.mp3",
+      "url": "./commercials/it-IT/marketing-e-pubblicit/bruno-valentini-e-figli/1673461576261/commercial.mp3",
       "artist": "Marketing E Pubblicit ",
       "cover_art_url": "assets/img/krang/krang-radio-029.jpg"
     },
     {
       "name": "Rinaldi Ferretti E Martini S R L ",
-      "url": "./commercials/it-IT/stampa/rinaldi-ferretti-e-martini-s-r-l-/1673462600284/commercial.mp3",
+      "url": "./commercials/it-IT/stampa/rinaldi-ferretti-e-martini-s-r-l/1673462600284/commercial.mp3",
       "artist": "Stampa",
       "cover_art_url": "assets/img/krang/krang-radio-011.jpg"
     },
     {
       "name": "Conte S R L ",
-      "url": "./commercials/it-IT/relazioni-pubbliche-e-comunicazioni/conte-s-r-l-/1673464307147/commercial.mp3",
+      "url": "./commercials/it-IT/relazioni-pubbliche-e-comunicazioni/conte-s-r-l/1673464307147/commercial.mp3",
       "artist": "Relazioni Pubbliche E Comunicazioni",
       "cover_art_url": "assets/img/krang/krang-radio-051.jpg"
     },
@@ -432,13 +432,13 @@ Amplitude.init({
     },
     {
       "name": "Bruno S R L ",
-      "url": "./commercials/it-IT/intrattenimento/bruno-s-r-l-/1673463545022/commercial.mp3",
+      "url": "./commercials/it-IT/intrattenimento/bruno-s-r-l/1673463545022/commercial.mp3",
       "artist": "Intrattenimento",
       "cover_art_url": "assets/img/krang/krang-radio-046.jpg"
     },
     {
       "name": "Testa S R L ",
-      "url": "./commercials/it-IT/telecomunicazioni/testa-s-r-l-/1673464277448/commercial.mp3",
+      "url": "./commercials/it-IT/telecomunicazioni/testa-s-r-l/1673464277448/commercial.mp3",
       "artist": "Telecomunicazioni",
       "cover_art_url": "assets/img/krang/krang-radio-061.jpg"
     },
@@ -450,7 +450,7 @@ Amplitude.init({
     },
     {
       "name": "Morelli Bellini S R L ",
-      "url": "./commercials/it-IT/salute-benessere-e-fitness/morelli-bellini-s-r-l-/1673464542797/commercial.mp3",
+      "url": "./commercials/it-IT/salute-benessere-e-fitness/morelli-bellini-s-r-l/1673464542797/commercial.mp3",
       "artist": "Salute Benessere E Fitness",
       "cover_art_url": "assets/img/krang/krang-radio-048.jpg"
     },
@@ -462,13 +462,13 @@ Amplitude.init({
     },
     {
       "name": "Messina Montanari E Lombardo S R L ",
-      "url": "./commercials/it-IT/ricerca-di-mercato/messina-montanari-e-lombardo-s-r-l-/1673462340552/commercial.mp3",
+      "url": "./commercials/it-IT/ricerca-di-mercato/messina-montanari-e-lombardo-s-r-l/1673462340552/commercial.mp3",
       "artist": "Ricerca Di Mercato",
       "cover_art_url": "assets/img/krang/krang-radio-006.jpg"
     },
     {
       "name": "Bianchi D Amico E Negri S R L ",
-      "url": "./commercials/it-IT/medicina-alternativa/bianchi-d-amico-e-negri-s-r-l-/1673464835376/commercial.mp3",
+      "url": "./commercials/it-IT/medicina-alternativa/bianchi-d-amico-e-negri-s-r-l/1673464835376/commercial.mp3",
       "artist": "Medicina Alternativa",
       "cover_art_url": "assets/img/krang/krang-radio-060.jpg"
     },
@@ -480,7 +480,7 @@ Amplitude.init({
     },
     {
       "name": "Martini Donati E Ricci S R L ",
-      "url": "./commercials/it-IT/allevamento/martini-donati-e-ricci-s-r-l-/1673464716236/commercial.mp3",
+      "url": "./commercials/it-IT/allevamento/martini-donati-e-ricci-s-r-l/1673464716236/commercial.mp3",
       "artist": "Allevamento",
       "cover_art_url": "assets/img/krang/krang-radio-081.jpg"
     },
@@ -540,7 +540,7 @@ Amplitude.init({
     },
     {
       "name": "Parisi S R L ",
-      "url": "./commercials/it-IT/wireless/parisi-s-r-l-/1673462006236/commercial.mp3",
+      "url": "./commercials/it-IT/wireless/parisi-s-r-l/1673462006236/commercial.mp3",
       "artist": "Wireless",
       "cover_art_url": "assets/img/krang/krang-radio-057.jpg"
     },
@@ -564,7 +564,7 @@ Amplitude.init({
     },
     {
       "name": "Rinaldi Ferrari S R L ",
-      "url": "./commercials/it-IT/servizi-di-informazione/rinaldi-ferrari-s-r-l-/1673461057677/commercial.mp3",
+      "url": "./commercials/it-IT/servizi-di-informazione/rinaldi-ferrari-s-r-l/1673461057677/commercial.mp3",
       "artist": "Servizi Di Informazione",
       "cover_art_url": "assets/img/krang/krang-radio-005.jpg"
     },
@@ -576,7 +576,7 @@ Amplitude.init({
     },
     {
       "name": "Bernardi S R L ",
-      "url": "./commercials/it-IT/tabacco/bernardi-s-r-l-/1673463342734/commercial.mp3",
+      "url": "./commercials/it-IT/tabacco/bernardi-s-r-l/1673463342734/commercial.mp3",
       "artist": "Tabacco",
       "cover_art_url": "assets/img/krang/krang-radio-090.jpg"
     },
@@ -600,13 +600,13 @@ Amplitude.init({
     },
     {
       "name": "Santoro Bellini E D Amico S R L ",
-      "url": "./commercials/it-IT/produzione-alimentare/santoro-bellini-e-d-amico-s-r-l-/1673461239035/commercial.mp3",
+      "url": "./commercials/it-IT/produzione-alimentare/santoro-bellini-e-d-amico-s-r-l/1673461239035/commercial.mp3",
       "artist": "Produzione Alimentare",
       "cover_art_url": "assets/img/krang/krang-radio-038.jpg"
     },
     {
       "name": "Ferretti S R L ",
-      "url": "./commercials/it-IT/giochi-d-azzardo-e-casin-/ferretti-s-r-l-/1673463476953/commercial.mp3",
+      "url": "./commercials/it-IT/giochi-d-azzardo-e-casin/ferretti-s-r-l/1673463476953/commercial.mp3",
       "artist": "Giochi D Azzardo E Casin ",
       "cover_art_url": "assets/img/krang/krang-radio-053.jpg"
     },
@@ -630,25 +630,25 @@ Amplitude.init({
     },
     {
       "name": "Damico Vitale S R L ",
-      "url": "./commercials/it-IT/artigianato/damico-vitale-s-r-l-/1673462926855/commercial.mp3",
+      "url": "./commercials/it-IT/artigianato/damico-vitale-s-r-l/1673462926855/commercial.mp3",
       "artist": "Artigianato",
       "cover_art_url": "assets/img/krang/krang-radio-060.jpg"
     },
     {
       "name": "Montanari Grasso S R L ",
-      "url": "./commercials/it-IT/industria-estrattiva/montanari-grasso-s-r-l-/1673462198397/commercial.mp3",
+      "url": "./commercials/it-IT/industria-estrattiva/montanari-grasso-s-r-l/1673462198397/commercial.mp3",
       "artist": "Industria Estrattiva",
       "cover_art_url": "assets/img/krang/krang-radio-036.jpg"
     },
     {
       "name": "Guerra S R L ",
-      "url": "./commercials/it-IT/semiconduttori/guerra-s-r-l-/1673463049047/commercial.mp3",
+      "url": "./commercials/it-IT/semiconduttori/guerra-s-r-l/1673463049047/commercial.mp3",
       "artist": "Semiconduttori",
       "cover_art_url": "assets/img/krang/krang-radio-040.jpg"
     },
     {
       "name": "Ricci S R L ",
-      "url": "./commercials/it-IT/nanotecnologia/ricci-s-r-l-/1673462956999/commercial.mp3",
+      "url": "./commercials/it-IT/nanotecnologia/ricci-s-r-l/1673462956999/commercial.mp3",
       "artist": "Nanotecnologia",
       "cover_art_url": "assets/img/krang/krang-radio-063.jpg"
     },
@@ -672,13 +672,13 @@ Amplitude.init({
     },
     {
       "name": "Carbon Rizzi Spa",
-      "url": "./commercials/it-IT/marketing-e-pubblicit-/carbon-rizzi-spa/1673462869394/commercial.mp3",
+      "url": "./commercials/it-IT/marketing-e-pubblicit/carbon-rizzi-spa/1673462869394/commercial.mp3",
       "artist": "Marketing E Pubblicit ",
       "cover_art_url": "assets/img/krang/krang-radio-025.jpg"
     },
     {
       "name": "Rinaldi Fabbri E Damico S R L ",
-      "url": "./commercials/it-IT/aviazione-e-aerospaziale/rinaldi-fabbri-e-damico-s-r-l-/1673462991599/commercial.mp3",
+      "url": "./commercials/it-IT/aviazione-e-aerospaziale/rinaldi-fabbri-e-damico-s-r-l/1673462991599/commercial.mp3",
       "artist": "Aviazione E Aerospaziale",
       "cover_art_url": "assets/img/krang/krang-radio-013.jpg"
     },
@@ -708,7 +708,7 @@ Amplitude.init({
     },
     {
       "name": "Longo S R L ",
-      "url": "./commercials/it-IT/forniture-e-attrezzature-per-le-attivit-commerciali/longo-s-r-l-/1673461446563/commercial.mp3",
+      "url": "./commercials/it-IT/forniture-e-attrezzature-per-le-attivit-commerciali/longo-s-r-l/1673461446563/commercial.mp3",
       "artist": "Forniture E Attrezzature Per Le Attivit Commerciali",
       "cover_art_url": "assets/img/krang/krang-radio-078.jpg"
     },
@@ -720,7 +720,7 @@ Amplitude.init({
     },
     {
       "name": "Battaglia Giordano E De Luca S R L ",
-      "url": "./commercials/it-IT/gestione-dell-istruzione/battaglia-giordano-e-de-luca-s-r-l-/1673464616662/commercial.mp3",
+      "url": "./commercials/it-IT/gestione-dell-istruzione/battaglia-giordano-e-de-luca-s-r-l/1673464616662/commercial.mp3",
       "artist": "Gestione Dell Istruzione",
       "cover_art_url": "assets/img/krang/krang-radio-025.jpg"
     },
@@ -732,7 +732,7 @@ Amplitude.init({
     },
     {
       "name": "Carbon S R L ",
-      "url": "./commercials/it-IT/costruzione-ferroviaria/carbon-s-r-l-/1673464496735/commercial.mp3",
+      "url": "./commercials/it-IT/costruzione-ferroviaria/carbon-s-r-l/1673464496735/commercial.mp3",
       "artist": "Costruzione Ferroviaria",
       "cover_art_url": "assets/img/krang/krang-radio-085.jpg"
     },
@@ -744,13 +744,13 @@ Amplitude.init({
     },
     {
       "name": "Barone Marino E Marian S R L ",
-      "url": "./commercials/it-IT/arte-e-cultura/barone-marino-e-marian-s-r-l-/1673463200776/commercial.mp3",
+      "url": "./commercials/it-IT/arte-e-cultura/barone-marino-e-marian-s-r-l/1673463200776/commercial.mp3",
       "artist": "Arte E Cultura",
       "cover_art_url": "assets/img/krang/krang-radio-098.jpg"
     },
     {
       "name": "Serr Longo E Ferrari S R L ",
-      "url": "./commercials/it-IT/produzione-cinematografica-e-televisiva/serr-longo-e-ferrari-s-r-l-/1673462583530/commercial.mp3",
+      "url": "./commercials/it-IT/produzione-cinematografica-e-televisiva/serr-longo-e-ferrari-s-r-l/1673462583530/commercial.mp3",
       "artist": "Produzione Cinematografica E Televisiva",
       "cover_art_url": "assets/img/krang/krang-radio-098.jpg"
     },
@@ -768,7 +768,7 @@ Amplitude.init({
     },
     {
       "name": "Testa Leone S R L ",
-      "url": "./commercials/it-IT/musica/testa-leone-s-r-l-/1673463985224/commercial.mp3",
+      "url": "./commercials/it-IT/musica/testa-leone-s-r-l/1673463985224/commercial.mp3",
       "artist": "Musica",
       "cover_art_url": "assets/img/krang/krang-radio-028.jpg"
     },
@@ -804,7 +804,7 @@ Amplitude.init({
     },
     {
       "name": "Fabbri Barbieri S R L ",
-      "url": "./commercials/it-IT/costruzioni-navali/fabbri-barbieri-s-r-l-/1673461759024/commercial.mp3",
+      "url": "./commercials/it-IT/costruzioni-navali/fabbri-barbieri-s-r-l/1673461759024/commercial.mp3",
       "artist": "Costruzioni Navali",
       "cover_art_url": "assets/img/krang/krang-radio-079.jpg"
     },
@@ -822,13 +822,13 @@ Amplitude.init({
     },
     {
       "name": "Valentini Gatti E Sanna S R L ",
-      "url": "./commercials/it-IT/bancario/valentini-gatti-e-sanna-s-r-l-/1673463175710/commercial.mp3",
+      "url": "./commercials/it-IT/bancario/valentini-gatti-e-sanna-s-r-l/1673463175710/commercial.mp3",
       "artist": "Bancario",
       "cover_art_url": "assets/img/krang/krang-radio-031.jpg"
     },
     {
       "name": "Pagano Spa",
-      "url": "./commercials/it-IT/giochi-d-azzardo-e-casin-/pagano-spa/1673461726248/commercial.mp3",
+      "url": "./commercials/it-IT/giochi-d-azzardo-e-casin/pagano-spa/1673461726248/commercial.mp3",
       "artist": "Giochi D Azzardo E Casin ",
       "cover_art_url": "assets/img/krang/krang-radio-047.jpg"
     },
@@ -858,7 +858,7 @@ Amplitude.init({
     },
     {
       "name": "Barbieri Rizzo E Neri S R L ",
-      "url": "./commercials/it-IT/prodotti-per-consumatori/barbieri-rizzo-e-neri-s-r-l-/1673463182735/commercial.mp3",
+      "url": "./commercials/it-IT/prodotti-per-consumatori/barbieri-rizzo-e-neri-s-r-l/1673463182735/commercial.mp3",
       "artist": "Prodotti Per Consumatori",
       "cover_art_url": "assets/img/krang/krang-radio-031.jpg"
     },
@@ -888,7 +888,7 @@ Amplitude.init({
     },
     {
       "name": "Donati D Amico E Battaglia S R L ",
-      "url": "./commercials/it-IT/pratica-legale/donati-d-amico-e-battaglia-s-r-l-/1673463041271/commercial.mp3",
+      "url": "./commercials/it-IT/pratica-legale/donati-d-amico-e-battaglia-s-r-l/1673463041271/commercial.mp3",
       "artist": "Pratica Legale",
       "cover_art_url": "assets/img/krang/krang-radio-026.jpg"
     },
@@ -912,19 +912,19 @@ Amplitude.init({
     },
     {
       "name": "Orlando S R L ",
-      "url": "./commercials/it-IT/salute-benessere-e-fitness/orlando-s-r-l-/1673463248956/commercial.mp3",
+      "url": "./commercials/it-IT/salute-benessere-e-fitness/orlando-s-r-l/1673463248956/commercial.mp3",
       "artist": "Salute Benessere E Fitness",
       "cover_art_url": "assets/img/krang/krang-radio-022.jpg"
     },
     {
       "name": "Silvestri De Angelis E Lombardo S R L ",
-      "url": "./commercials/it-IT/ricerca-di-mercato/silvestri-de-angelis-e-lombardo-s-r-l-/1673461979555/commercial.mp3",
+      "url": "./commercials/it-IT/ricerca-di-mercato/silvestri-de-angelis-e-lombardo-s-r-l/1673461979555/commercial.mp3",
       "artist": "Ricerca Di Mercato",
       "cover_art_url": "assets/img/krang/krang-radio-041.jpg"
     },
     {
       "name": "Ross Santoro S R L ",
-      "url": "./commercials/it-IT/istituzioni-religiose/ross-santoro-s-r-l-/1673462403339/commercial.mp3",
+      "url": "./commercials/it-IT/istituzioni-religiose/ross-santoro-s-r-l/1673462403339/commercial.mp3",
       "artist": "Istituzioni Religiose",
       "cover_art_url": "assets/img/krang/krang-radio-095.jpg"
     },
@@ -954,7 +954,7 @@ Amplitude.init({
     },
     {
       "name": "Sala Rizzi E Vitale S R L ",
-      "url": "./commercials/it-IT/capitali-di-rischio-e-private-equity/sala-rizzi-e-vitale-s-r-l-/1673462519254/commercial.mp3",
+      "url": "./commercials/it-IT/capitali-di-rischio-e-private-equity/sala-rizzi-e-vitale-s-r-l/1673462519254/commercial.mp3",
       "artist": "Capitali Di Rischio E Private Equity",
       "cover_art_url": "assets/img/krang/krang-radio-080.jpg"
     },
@@ -1020,7 +1020,7 @@ Amplitude.init({
     },
     {
       "name": "Ferri Amato E D Amico S R L ",
-      "url": "./commercials/it-IT/semiconduttori/ferri-amato-e-d-amico-s-r-l-/1673461041826/commercial.mp3",
+      "url": "./commercials/it-IT/semiconduttori/ferri-amato-e-d-amico-s-r-l/1673461041826/commercial.mp3",
       "artist": "Semiconduttori",
       "cover_art_url": "assets/img/krang/krang-radio-037.jpg"
     },
@@ -1062,7 +1062,7 @@ Amplitude.init({
     },
     {
       "name": "Santoro Pagano S R L ",
-      "url": "./commercials/it-IT/gestione-degli-investimenti/santoro-pagano-s-r-l-/1673464156416/commercial.mp3",
+      "url": "./commercials/it-IT/gestione-degli-investimenti/santoro-pagano-s-r-l/1673464156416/commercial.mp3",
       "artist": "Gestione Degli Investimenti",
       "cover_art_url": "assets/img/krang/krang-radio-033.jpg"
     },
@@ -1086,16 +1086,46 @@ Amplitude.init({
     },
     {
       "name": "Fior Silvestri E De Santis S R L ",
-      "url": "./commercials/it-IT/impianti-e-servizi-ricreativi/fior-silvestri-e-de-santis-s-r-l-/1673463002252/commercial.mp3",
+      "url": "./commercials/it-IT/impianti-e-servizi-ricreativi/fior-silvestri-e-de-santis-s-r-l/1673463002252/commercial.mp3",
       "artist": "Impianti E Servizi Ricreativi",
       "cover_art_url": "assets/img/krang/krang-radio-009.jpg"
     },
     {
       "name": "Gallo S R L ",
-      "url": "./commercials/it-IT/design-grafico/gallo-s-r-l-/1673464533618/commercial.mp3",
+      "url": "./commercials/it-IT/design-grafico/gallo-s-r-l/1673464533618/commercial.mp3",
       "artist": "Design Grafico",
       "cover_art_url": "assets/img/krang/krang-radio-076.jpg"
-    }    
+    },
+    {
+      "name": "Innovation And Advertising",
+      "url": "./commercials/jingles/you-are-listening-to-krangs-radio--where-innovation-and-advertising-come-together.mp3",
+      "artist": "Krangs Radio",
+      "cover_art_url": "assets/img/krang/station.jpg"
+    },
+    {
+      "name": "Future Of Advertising",
+      "url": "./commercials/jingles/you-are-listening-to-krangs-radio--where-the-future-of-advertising-is-now.mp3",
+      "artist": "Krangs Radio",
+      "cover_art_url": "assets/img/krang/station.jpg"
+    },
+    {
+      "name": "Power Of AI",
+      "url": "./commercials/jingles/you-are-listening-to-krangs-radio--where-the-power-of-ai-technology-meets-the-world-of-advertising.mp3",
+      "artist": "Krangs Radio",
+      "cover_art_url": "assets/img/krang/station.jpg"
+    },
+    {
+      "name": "AI Technology Leads",
+      "url": "./commercials/jingles/you-re-listening-to-krangs-radio--where-ai-technology-leads-the-way-in-advertisemen.mp3",
+      "artist": "Krangs Radio",
+      "cover_art_url": "assets/img/krang/station.jpg"
+    },
+    {
+      "name": "AI Meets Advertising",
+      "url": "./commercials/jingles/you-re-listening-to-krangs-radio--where-ai-technology-meets-advertising-excellence.mp3",
+      "artist": "Krangs Radio",
+      "cover_art_url": "assets/img/krang/station.jpg"
+    }
   ]
 });
 
